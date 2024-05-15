@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Bm4hVLcD6Qvkp571pNuiss6cQHgC9OeptKV2Urp+AZ9DPtQ68i/f3KVSCkPXHLXm5RcChdju1ysHt9wuhmU9Q==",
+  "success": true,
+  "projectFilePath": "/mnt/sdb4/fs/Student Life/КПІ, курс 1, семестр 2/Основи Програмування/ExtraTasks/LinkedList/LinkedList.csproj",
+  "expectedPackageFiles": [
+    "/home/arsen/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/arsen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/home/arsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.29/microsoft.netcore.app.host.linux-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
